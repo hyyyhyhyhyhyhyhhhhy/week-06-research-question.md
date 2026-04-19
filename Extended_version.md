@@ -53,11 +53,11 @@ Does the scene actually reflect the requested angle?
 → “A cat sitting on a table next to a lamp”
 
 ## Apply different viewpoints: 
-→ bird’s-eye 
-→ side view
-→ close-up
+- bird’s-eye 
+- side view
+- close-up
 
 ## Run across multiple models then score each output using a rubric like:
-→ 0 = incorrect spatial relationships
-→ 1 = partially correct
-→ 2 = fully consistent
+- 0 = incorrect spatial relationships
+- 1 = partially correct
+- 2 = fully consistent
